@@ -1,0 +1,6 @@
+c:\users\administrator.5g-build\documents\visual studio 2013\Projects\FoodOrder\FoodOrder\bin\Debug\FoodOrder.exe.config
+c:\users\administrator.5g-build\documents\visual studio 2013\Projects\FoodOrder\FoodOrder\bin\Debug\FoodOrder.exe
+c:\users\administrator.5g-build\documents\visual studio 2013\Projects\FoodOrder\FoodOrder\bin\Debug\FoodOrder.pdb
+c:\users\administrator.5g-build\documents\visual studio 2013\Projects\FoodOrder\FoodOrder\obj\Debug\FoodOrder.csprojResolveAssemblyReference.cache
+c:\users\administrator.5g-build\documents\visual studio 2013\Projects\FoodOrder\FoodOrder\obj\Debug\FoodOrder.exe
+c:\users\administrator.5g-build\documents\visual studio 2013\Projects\FoodOrder\FoodOrder\obj\Debug\FoodOrder.pdb
